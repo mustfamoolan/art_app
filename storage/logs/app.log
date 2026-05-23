@@ -8,3 +8,4 @@
 {"level":"info","ts":"2026-05-23T13:15:28.159+0300","caller":"bootstrap/logger.go:51","msg":"Logger initialized successfully","level":"debug"}
 {"level":"info","ts":"2026-05-23T13:58:49.907+0300","caller":"bootstrap/logger.go:51","msg":"Logger initialized successfully","level":"debug"}
 {"level":"info","ts":"2026-05-23T14:01:08.485+0300","caller":"bootstrap/logger.go:51","msg":"Logger initialized successfully","level":"debug"}
+{"level":"info","ts":"2026-05-23T19:38:52.030+0300","caller":"bootstrap/logger.go:51","msg":"Logger initialized successfully","level":"debug"}
