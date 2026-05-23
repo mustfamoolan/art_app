@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+server.exe
+node_modules
+dist
+storage/logs/*
+*.exe
+*.log
+docker-compose.override.yml
